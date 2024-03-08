@@ -1,16 +1,15 @@
 
-    
-    Hello Everyone! Greetings of the Day
+Hello Everyone! Greetings of the Day.
 
-    I would like to share some small details about the ShoppingSite Web Application.
+I would like to share some key details about the ShoppingSite Web Application.
 
-    This was developed using Laravel php framework. It is in beta version. This is a basic E-commerce web application.<br>
-    This has two views based on the type of user who is logged in.
-    1. Admin
-    2.End User
+Development: The ShoppingSite Web Application was developed using the Laravel PHP framework. It is currently in the beta version, undergoing continuous improvements and enhancements.
+E-commerce Functionality: The application serves as a basic e-commerce web platform, providing users with the ability to browse and preview products online.
+User Views: The application offers two distinct views based on the type of user logged in:
+  End User: The end user view allows customers to browse and view products available on the platform.
+  Admin User: The admin user view grants administrators additional privileges, including the ability to add products, manage categories, and create banners for promotional purposes.
 
-    The End User can only view the products.
-    The Admin User can add products,add categories and add banners as well.
+Thank you for your attention.
 
 ![Admin Front end](https://github.com/SubbuDommeti/ShoppingSite/assets/89302010/95096cbc-ccd1-451a-b17e-9645ce23dc9c)
 
