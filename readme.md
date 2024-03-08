@@ -4,7 +4,9 @@ Hello Everyone! Greetings of the Day.
 I would like to share some key details about the ShoppingSite Web Application.
 
 Development: The ShoppingSite Web Application was developed using the Laravel PHP framework. It is currently in the beta version, undergoing continuous improvements and enhancements.
+
 E-commerce Functionality: The application serves as a basic e-commerce web platform, providing users with the ability to browse and preview products online.
+
 User Views: The application offers two distinct views based on the type of user logged in:
   End User: The end user view allows customers to browse and view products available on the platform.
   Admin User: The admin user view grants administrators additional privileges, including the ability to add products, manage categories, and create banners for promotional purposes.
